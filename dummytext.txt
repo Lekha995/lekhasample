@@ -1,2 +1,6 @@
 Hello! This is Lekha created a dummy text for GIT :) I have updated in local
+<<<<<<< Updated upstream
 some change everyone have to adapt
+=======
+Some change no need to adapt
+>>>>>>> Stashed changes
